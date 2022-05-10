@@ -1,3 +1,5 @@
+-- This helped: https://serveanswer.com/questions/trouble-linking-with-glfw-using-premake-and-vs2019
+
 project "GLFW"
     kind "StaticLib"
     language "C"
